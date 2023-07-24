@@ -1,0 +1,18 @@
+<?php
+$servername = "localhost";
+$database = "id16819215_suscriplb";
+$username = "id16819215_suscriplb123";
+$password = "Suscriplb#123";
+
+$conn = mysqli_connect($servername, $username, $password, $database);
+
+if (!$conn) {
+    die("Conexion erronea: " . mysqli_connect_error());
+}
+
+?>
+
+
+
+
+En un pueblo italiano, el títere de madera Pinocho cobra vida gracias al Hada Azul. Pinocho se esfuerza por comportarse como un niño de carne y hueso, pero su vida da un vuelco al abandonar a su padre para unirse a un circo.
